@@ -1,0 +1,20 @@
+.title{
+    margin: 10px auto;
+    padding: 2px 0;
+    width: 45%;
+    background:#3D2514;
+    color: #FFC135;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+.bg1{
+    padding: 20px 0px;
+    padding-left: 20px;
+    background: #dbddda;
+    border-radius: 20px;
+}
+.mb{
+    margin-bottom: 60px;
+}
